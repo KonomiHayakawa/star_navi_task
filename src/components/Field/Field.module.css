@@ -1,0 +1,17 @@
+.table {
+  border: 1px solid #ECECEC;
+  height: 450px;
+  text-align: center;
+  width: 450px;
+}
+
+.cell {
+  border: 1px solid black;
+  height: auto;
+  width: auto;
+}
+
+.cell:hover {
+  background-color: #3FA9FF;
+}
+
